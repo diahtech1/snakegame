@@ -1,0 +1,5 @@
+setup  the screen and the moving snake
+the snake should be able to change direction
+the snake shoud increase only after eating a food
+
+
